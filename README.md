@@ -1,4 +1,4 @@
-# Just_For_Fun
+# Random Stuff
 _______________________________________________________________________
 
 * Code which was done just for fun
